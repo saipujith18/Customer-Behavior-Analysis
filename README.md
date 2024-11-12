@@ -10,9 +10,6 @@ This repository contains a comprehensive analysis of customer behavior using Pyt
 - [Key Findings](#key-findings)
 - [Visualizations](#visualizations)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Customer Behavior Analysis involves examining how customers interact with a business, product, or service. This analysis helps organizations tailor their strategies and improve customer experiences in a competitive market.
